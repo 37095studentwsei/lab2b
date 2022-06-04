@@ -1,11 +1,11 @@
-package pl.lublin.wsei.java.cwiczenia;
+package pl.lublin.wsei.java.cwiczenia.test;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 
-public class infografika {
-    public infografika(String tekst) {
+public class Infografika {
+    public Infografika(String tekst) {
 
         String tytul;
         String adresStrony;
