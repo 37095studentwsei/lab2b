@@ -1,4 +1,4 @@
-package pl.lublin.wsei.java.cwiczenia;
+package pl.lublin.wsei.java.cwiczenia.test;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
