@@ -1,4 +1,4 @@
-package pl.lublin.wsei.java.cwiczenia;
+package pl.lublin.wsei.java.cwiczenia.test;
 
 import java.io.*;
 import java.nio.file.Files;

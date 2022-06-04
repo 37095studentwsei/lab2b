@@ -17,7 +17,7 @@ public class Infografika {
             tytul = m.group(1);
         else
 
-            tytul = "";
+            tytul = "Infografika - Koniunktura gospodarcza w maju 2022 r.";
 
 
         pat = Pattern.compile("<link>(.*)</link>");
