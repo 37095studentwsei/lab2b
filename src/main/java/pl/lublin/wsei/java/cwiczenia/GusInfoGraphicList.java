@@ -1,6 +1,8 @@
-package pl.lublin.wsei.java.cwiczenia.test;
+package pl.lublin.wsei.java.cwiczenia;
 
 
+
+import pl.lublin.wsei.java.cwiczenia.test.Infografika;
 
 import java.io.IOException;
 import java.nio.file.Files;
